@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tpjvbk79l-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/tpjvbk79l-python-gitops
